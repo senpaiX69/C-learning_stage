@@ -1,2 +1,3 @@
 # C-learning_stage
 I am just testing the github and trying to keep track of my codes that I have learned 
+I'm uploading the things that i have learn through out my bca course...
